@@ -5,6 +5,7 @@ Project Chandrasekhar aims to catapult satellites into space. We all know how ex
 Main Website:
 The Main website of Project Chandrasekhar is available at the link:
 Open-source contributors to the website are welcomed and are credited for their work.
+https://project-chandrasekhar.github.io/Project-Chandrasekhar-Website/
 
 Credits:
 * Srijith Arumugam
